@@ -1,0 +1,15 @@
+C:\Users\Sathiyan-1\source\repos\basicsbot\basicsbot\bin\Debug\net6.0\basicsbot.exe
+C:\Users\Sathiyan-1\source\repos\basicsbot\basicsbot\bin\Debug\net6.0\basicsbot.deps.json
+C:\Users\Sathiyan-1\source\repos\basicsbot\basicsbot\bin\Debug\net6.0\basicsbot.runtimeconfig.json
+C:\Users\Sathiyan-1\source\repos\basicsbot\basicsbot\bin\Debug\net6.0\basicsbot.dll
+C:\Users\Sathiyan-1\source\repos\basicsbot\basicsbot\bin\Debug\net6.0\basicsbot.pdb
+C:\Users\Sathiyan-1\source\repos\basicsbot\basicsbot\obj\Debug\net6.0\basicsbot.csproj.AssemblyReference.cache
+C:\Users\Sathiyan-1\source\repos\basicsbot\basicsbot\obj\Debug\net6.0\basicsbot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sathiyan-1\source\repos\basicsbot\basicsbot\obj\Debug\net6.0\basicsbot.AssemblyInfoInputs.cache
+C:\Users\Sathiyan-1\source\repos\basicsbot\basicsbot\obj\Debug\net6.0\basicsbot.AssemblyInfo.cs
+C:\Users\Sathiyan-1\source\repos\basicsbot\basicsbot\obj\Debug\net6.0\basicsbot.csproj.CoreCompileInputs.cache
+C:\Users\Sathiyan-1\source\repos\basicsbot\basicsbot\obj\Debug\net6.0\basicsbot.dll
+C:\Users\Sathiyan-1\source\repos\basicsbot\basicsbot\obj\Debug\net6.0\refint\basicsbot.dll
+C:\Users\Sathiyan-1\source\repos\basicsbot\basicsbot\obj\Debug\net6.0\basicsbot.pdb
+C:\Users\Sathiyan-1\source\repos\basicsbot\basicsbot\obj\Debug\net6.0\basicsbot.genruntimeconfig.cache
+C:\Users\Sathiyan-1\source\repos\basicsbot\basicsbot\obj\Debug\net6.0\ref\basicsbot.dll
